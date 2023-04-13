@@ -6,8 +6,8 @@ The navigation menu provides the following options to choose from:
 
 - Guests:
   - view all Guests
-  - add a new Guest (plus icon) - 
-  - delete a Guest (trash icon) - confirmation is requested fron user
+  - add a new Guest (plus icon)
+  - delete a Guest (trash icon) - confirmation is requested from user
   - update a Guest (pencil icon) - user can choose to update any attribute
   - view full details of a Guest (FirstName or details icon) - once details are displayed (all attributes and associated Screenings), user can also decide to delete or update the Guest
   
